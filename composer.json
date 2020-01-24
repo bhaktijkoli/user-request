@@ -1,0 +1,14 @@
+{
+    "name": "bhaktijkoli/user-request",
+    "description": "User Request Laravel Package",
+    "keywords": ["user request", "package", "request", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bhaktij Koli",
+            "email": "bhaktijkoli121@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
